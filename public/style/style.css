@@ -1,0 +1,16 @@
+@font-face {
+  font-family: fontPendu;
+  src: url(../font/chineserocksrg.otf);
+}
+
+body {
+  background-image: url("../image/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: fontPendu;
+}
+
+#pendu {
+  top: 100px;
+}
